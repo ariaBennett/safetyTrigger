@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/180/trunk/jasmine/spec
+END
+coreSpec.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/180/trunk/jasmine/spec/coreSpec.js
+END
+PlayerSpec.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/180/trunk/jasmine/spec/PlayerSpec.js
+END
+SpecHelper.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/180/trunk/jasmine/spec/SpecHelper.js
+END

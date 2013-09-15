@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/205/trunk/modules
+END
+io.js
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/167/trunk/modules/io.js
+END
+core.js
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/187/trunk/modules/core.js
+END
+xregexp-all-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/152/trunk/modules/xregexp-all-min.js
+END
+Observers.js
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/95/trunk/modules/Observers.js
+END
+jxon.js
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/118/trunk/modules/jxon.js
+END
+prefs.js
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/205/trunk/modules/prefs.js
+END
+xregexp-wrapper.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/157/trunk/modules/xregexp-wrapper.js
+END
+Preferences.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/103/trunk/modules/Preferences.js
+END
+services.js
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/157/trunk/modules/services.js
+END
+subscription.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/157/trunk/modules/subscription.js
+END

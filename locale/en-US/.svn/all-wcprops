@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/209/trunk/locale/en-US
+END
+appendoverwrite.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/63/trunk/locale/en-US/appendoverwrite.dtd
+END
+substitutiongroupeditor.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/194/trunk/locale/en-US/substitutiongroupeditor.dtd
+END
+help.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/196/trunk/locale/en-US/help.dtd
+END
+foxreplace.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/87/trunk/locale/en-US/foxreplace.dtd
+END
+foxreplace.properties
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/154/trunk/locale/en-US/foxreplace.properties
+END
+options.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/209/trunk/locale/en-US/options.dtd
+END
+bindings.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/187/trunk/locale/en-US/bindings.dtd
+END
