@@ -7,14 +7,14 @@
                    em:minVersion="4.0"
                    em:maxVersion="26.0" />
   <RDF:Description RDF:about="urn:mozilla:install-manifest"
-                   em:id="fox@replace.fx"
-                   em:name="FoxReplace"
-                   em:version="0.15.0"
-                   em:creator="Marc Ruiz Altisent"
-                   em:description="Lets you replace text in web pages. You can define a substitution list and apply it automatically or at your own discretion, or make individual substitutions. You can use this as a filter, or just for fun :)"
-                   em:homepageURL="http://code.google.com/p/foxreplace/"
-                   em:iconURL="chrome://foxreplace/content/foxreplace48.png"
-                   em:icon64URL="chrome://foxreplace/content/foxreplace64.png"
+                   em:id="safety@trigger.im"
+                   em:name="SafetyTrigger"
+                   em:version="0.1"
+                   em:creator="Aria Bennett Troutt, Jamie Gaard, Cid La Luz, Joe Miller"
+                   em:description="Replaces harmful trigger words with positive happy words."
+                   em:homepageURL="https://github.com/ariaBennett/safetyTrigger"
+                   em:iconURL="chrome://foxreplace/content/safetytrigger48.png"
+                   em:icon64URL="chrome://foxreplace/content/safetytrigger64.png"
                    em:optionsURL="chrome://foxreplace/content/options.xul">
     <em:contributor>Lutay Sergey (href substitution)</em:contributor>
     <em:contributor>Goofy (entitized help)</em:contributor>
